@@ -21,3 +21,10 @@ Você pode selecionar uma ou várias zonas, o que implica em várias máquinas v
 Por isso, é importante determinar o propósito da máquina virtual e seu preço.
 
 ## Imagens
+
+![alt text](Imagens/1.png)
+![alt text](Imagens/2.png)
+![alt text](Imagens/3.png)
+![alt text](Imagens/4.png)
+![alt text](Imagens/5.png)
+![alt text](Imagens/6.png)
